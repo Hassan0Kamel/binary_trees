@@ -5,8 +5,7 @@
 
 /**
  * print_t - Stores recursively
- * 
- * @tree: Pointer t
+ * @tree: Pointer
  * @offset: Offset t
  * @depth: Depth
  * @s: Buff
